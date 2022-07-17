@@ -14,10 +14,10 @@
     </properties>
 
     <dependencies>
-        <dependency>  <!-- jedis 2.9.0 버젼 -->
+        <dependency>
             <groupId>redis.clients</groupId>
             <artifactId>jedis</artifactId>
-            <version>2.9.0</version>
+            <version>4.0.0</version>
             <scope>compile</scope>
         </dependency>
     </dependencies>
