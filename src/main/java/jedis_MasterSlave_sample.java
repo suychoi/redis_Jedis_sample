@@ -1,6 +1,6 @@
 import redis.clients.jedis.*;
 
-public class jedis_sample {
+public class jedis_MasterSlave_sample {
     public static void main(String[] args){
 
 //        M/R
